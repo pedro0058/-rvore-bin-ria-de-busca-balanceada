@@ -1,6 +1,5 @@
-//Aluno: João Pedro de Araújo Lima
+//Aluno: João Pedro de Araújo Lima - UFC
 //Matícula: 497687
-//link: https://youtu.be/-8FEUakZgvc
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
