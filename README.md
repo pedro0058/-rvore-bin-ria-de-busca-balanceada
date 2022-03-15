@@ -1,1 +1,1 @@
-# -rvore-bin-ria-de-busca-balanceada
+# -arvore-binaria-de-busca-balanceada
